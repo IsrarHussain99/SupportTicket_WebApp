@@ -1,4 +1,4 @@
-# SupportTicket_WebApp
+# SupportTicket_WebApp C#, ASP.NET Core
 Web Application for a support ticket system, (ASP.NET, React.js, Redux)
 
 A support ticket creation and management system.
